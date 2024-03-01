@@ -10,5 +10,11 @@
         "author": "Sgt Moloch",
         "description": "Moves company-owned cars and locomotives to the end of the interchange when it is being serviced",
         "url": "https://github.com/SgtMoloch/MoveTheEquipment/releases/latest"
+    },
+    {
+        "name": "YardAiExtended",
+        "author": "wexp",
+        "description": "Adds more distance buttons when using Yard AI mode.",
+        "url": "https://github.com/wexp/RR-YardAiExtended/releases/latest"
     }
 ]

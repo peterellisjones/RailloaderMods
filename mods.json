@@ -16,5 +16,11 @@
         "author": "wexp",
         "description": "Adds more distance buttons when using Yard AI mode.",
         "url": "https://github.com/wexp/RR-YardAiExtended/releases/latest"
+    },
+    {
+        "name": "SteamChuffReducer",
+        "author": "wexp",
+        "description": "Adds settings to change how steam particle effects are generated.",
+        "url": "https://github.com/wexp/RR-SteamChuffReducer/releases/latest"
     }
 ]

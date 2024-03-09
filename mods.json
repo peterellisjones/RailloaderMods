@@ -22,5 +22,11 @@
         "author": "wexp",
         "description": "Adds settings to change how steam particle effects are generated.",
         "url": "https://github.com/wexp/RR-SteamChuffReducer/releases/latest"
+    },
+    {
+        "name": "IndustryFix",
+        "author": "Voidheart",
+        "description": "Corrections for industry issues in Railroader",
+        "url": "https://github.com/Voidheartd/IndustryFix/releases/latest"
     }
 ]

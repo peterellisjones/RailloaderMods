@@ -28,5 +28,11 @@
         "author": "Voidheart",
         "description": "Corrections for industry issues in Railroader",
         "url": "https://github.com/Voidheartd/IndustryFix/releases/latest"
+    },
+    {
+        "name": "AutoCoupleAir",
+        "author": "wexp",
+        "description": "Auto couples all air hoses and opens all the correct anglecocks when coupling to a consist.",
+        "url": "https://github.com/wexp/RR-AutoCoupleAir/releases/latest"
     }
 ]

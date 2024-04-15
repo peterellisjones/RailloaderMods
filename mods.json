@@ -52,5 +52,11 @@
         "author": "Gamearoo",
         "description": "Adds a few helper tracks in a few areas to help make it easier for players",
         "url": "https://www.nexusmods.com/railroader/mods/53"
+    },
+    {
+       "name": "IndustryEdit",
+        "author": "Exp232",
+        "description": "Additional modifications for industries in Railroader",
+        "url": "https://github.com/Exp232/Industry-Edit/releases/latest"
     }
 ]

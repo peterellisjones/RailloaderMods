@@ -30,11 +30,6 @@
         "url": "https://github.com/Voidheartd/IndustryFix/releases/latest"
     },
     {
-       "name": "IndustryEdit",
-        "author": "Exp232",
-        "description": "Additional modifications for industries in Railroader",
-        "url": "https://github.com/Exp232/Industry-Edit/releases/latest" 
-    {
         "name": "AutoCoupleAir",
         "author": "wexp",
         "description": "Auto couples all air hoses and opens all the correct anglecocks when coupling to a consist.",
@@ -58,4 +53,10 @@
         "description": "Adds a few helper tracks in a few areas to help make it easier for players",
         "url": "https://www.nexusmods.com/railroader/mods/53"
     }
+    {
+       "name": "IndustryEdit",
+        "author": "Exp232",
+        "description": "Additional modifications for industries in Railroader",
+        "url": "https://github.com/Exp232/Industry-Edit/releases/latest"
+    },
 ]

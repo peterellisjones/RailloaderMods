@@ -51,7 +51,13 @@
         "name": "EWESIRA (track helpers additions)",
         "author": "Gamearoo",
         "description": "Adds a few helper tracks in a few areas to help make it easier for players",
-        "url": "https://www.nexusmods.com/railroader/mods/53"
+        "url": "https://gamearoo.dev/railroadermods"
+    },
+    {
+        "name": "Gamearoo's Water Mills",
+        "author": "Gamearoo",
+        "description": "Adds water mills from Dillsboro to Bryson",
+        "url": "https://gamearoo.dev/railroadermods"
     },
     {
        "name": "IndustryEdit",

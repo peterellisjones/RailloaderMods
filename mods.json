@@ -58,5 +58,17 @@
         "author": "Exp232",
         "description": "Additional modifications for industries in Railroader",
         "url": "https://github.com/Exp232/Industry-Edit/releases/latest"
+    },
+    {
+        "name": "SmartOrders",
+        "author": "peterellisjones",
+        "description": "Tell the Yard AI to move relative to switches eg \"move this train to the other side of the third switch\"",
+        "url": "https://github.com/peterellisjones/Railroader-SmartOrders/releases"
+    },
+    {
+        "name": "FlyShuntUI",
+        "author": "peterellisjones",
+        "description": "Add buttons to the Road AI to disconnect groups of cars bound for the same destination",
+        "url": "https://github.com/peterellisjones/Railroader-FlyShuntUI/releases"
     }
 ]

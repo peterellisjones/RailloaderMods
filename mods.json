@@ -70,5 +70,11 @@
         "author": "peterellisjones",
         "description": "Add buttons to the Road AI to disconnect groups of cars bound for the same destination",
         "url": "https://github.com/peterellisjones/Railroader-FlyShuntUI/releases"
+    },
+    {
+        "name": "SwitchToDestination",
+        "author": "peterellisjones",
+        "description": "Adds a button to freight cars to open all switches between the car and its waybill destination",
+        "url": "https://github.com/peterellisjones/Railroader-SwitchToDestination/releases"
     }
 ]
